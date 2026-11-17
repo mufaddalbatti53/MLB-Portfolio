@@ -1,0 +1,113 @@
+name: MLB Portfolio CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: mlb-ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  backend-ci:
+    name: Backend tests
+    runs-on: ubuntu-latest
+    services:
+      mongo:
+        image: mongo:7
+        ports:
+          - 27017:27017
+        options: >-
+          --health-cmd "mongosh --quiet --eval 'db.adminCommand({ ping: 1 }).ok' | grep -q 1"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 10
+    defaults:
+      run:
+        working-directory: backend
+    env:
+      MONGODB_URI: mongodb://localhost:27017/mlb_portfolio_ci
+      ADMIN_USERNAME: ci-admin
+      ADMIN_PASSWORD_HASH: $2a$12$Wz7zqVHWcQ9CeP9aKyV23uMqmZzQW5P7pc6PZ4RqQzxB2A6iXr9vK
+      JWT_SECRET: ci-only-jwt-signing-secret-with-at-least-32-characters
+      RATE_LIMIT_HMAC_SECRET: ci-only-hmac-secret-with-at-least-32-characters
+      CORS_ALLOWED_ORIGINS: https://mufaddalbatti53.github.io
+      TRUSTED_PROXY_CIDRS: 127.0.0.1/32
+      SEED_INITIAL_DATA: "false"
+      MAIL_ENABLED: "false"
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Temurin JDK 21
+        uses: actions/setup-java@v6
+        with:
+          distribution: temurin
+          java-version: "21"
+          cache: maven
+
+      - name: Ensure Maven wrapper is executable
+        run: chmod +x mvnw
+
+      - name: Run backend unit, validation, rate-limit and security tests
+        run: ./mvnw -B test
+
+  frontend-audit:
+    name: Frontend safety and HTML audit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+
+      - name: Validate HTML5 documents
+        run: npx --yes html-validate@11.21.1 "frontend/*.html"
+
+      - name: Enforce XSS-safe DOM policy
+        shell: bash
+        run: |
+          set -euo pipefail
+          if grep -R --line-number --include='*.js' -E '\.innerHTML\b|\.outerHTML\b|insertAdjacentHTML\b|document\.write\b|(^|[^A-Za-z0-9_])eval[[:space:]]*\(' frontend/js; then
+            echo "Unsafe DOM HTML API detected in frontend JavaScript." >&2
+            exit 1
+          fi
+
+      - name: Reject inline browser event handlers
+        shell: bash
+        run: |
+          set -euo pipefail
+          if grep -R --line-number --include='*.html' -E ' on[a-zA-Z]+[[:space:]]*=' frontend; then
+            echo "Inline browser event handler detected in frontend HTML." >&2
+            exit 1
+          fi
+
+      - name: Install source-audit YAML parser
+        run: python3 -m pip install --disable-pip-version-check --no-input PyYAML==6.0.2
+
+      - name: Run repository source audit
+        run: python3 scripts/validate_source.py
+
+      - name: Verify SEO discovery files
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s frontend/sitemap.xml
+          test -s frontend/robots.txt
+
+  deploy-hook:
+    name: Deployment hook gate
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: [backend-ci, frontend-audit]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deployment hook gate
+        run: echo "CI passed. Render can deploy from its GitHub integration."

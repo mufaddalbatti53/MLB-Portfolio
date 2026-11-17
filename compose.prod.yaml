@@ -1,0 +1,21 @@
+services:
+  gateway:
+    image: caddy:2.10-alpine
+    restart: unless-stopped
+    environment:
+      SITE_HOST: ${SITE_HOST:?Set the public domain for automatic HTTPS}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on: [web]
+    networks:
+      private:
+        ipv4_address: 172.29.77.10
+volumes:
+  caddy_data:
+  caddy_config:

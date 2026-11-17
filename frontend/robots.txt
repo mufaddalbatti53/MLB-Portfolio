@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /Mufaddal-Portfolio/
+Disallow: /Mufaddal-Portfolio/admin.html
+Disallow: /Mufaddal-Portfolio/thank-you.html
+Disallow: /Mufaddal-Portfolio/404.html
+
+Sitemap: https://mufaddalbatti53.github.io/Mufaddal-Portfolio/sitemap.xml

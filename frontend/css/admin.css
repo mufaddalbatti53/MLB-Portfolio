@@ -1,0 +1,46 @@
+.admin-body { min-height: 100vh; }
+.admin-shell { padding-top: 42px; padding-bottom: 90px; }
+.admin-login { width: min(480px,100%); margin: min(12vh,100px) auto; border: 1px solid var(--border-subtle); background: var(--surface-card); border-radius: var(--radius-lg); padding: clamp(24px,5vw,40px); box-shadow: var(--shadow-card); }
+.admin-login h1 { margin: 0 0 10px; font-size: 2rem; }
+.admin-login p { color: var(--text-muted); }
+.admin-login label { display: block; font-size: .87rem; margin: 20px 0 7px; }
+.admin-login input, .admin-editor input, .admin-editor textarea, .admin-editor select { width: 100%; border: 1px solid var(--border-hover); background: var(--surface-input); color: var(--text-main); border-radius: 10px; padding: 11px 12px; }
+.admin-login .button { margin-top: 23px; width: 100%; justify-content: center; }
+.admin-layout { display: grid; grid-template-columns: 230px minmax(0,1fr); gap: 34px; }
+.admin-sidebar { display: flex; flex-direction: column; gap: 7px; align-self: start; position: sticky; top: 110px; border: 1px solid var(--border-subtle); background: var(--surface-card); border-radius: 18px; padding: 18px; }
+.admin-sidebar h2 { font-size: 1rem; }
+.admin-tab { text-align: left; background: transparent; color: var(--text-muted); border: 1px solid transparent; border-radius: 9px; padding: 10px 13px; }
+.admin-tab[aria-current="page"] { color: var(--text-main); background: var(--surface-raised); border-color: var(--border-hover); }
+.admin-content { min-width: 0; }
+.admin-top { display: flex; justify-content: space-between; align-items: center; gap: 20px; margin-bottom: 25px; }
+.admin-top h1 { margin: 4px 0; font-size: clamp(1.6rem,4vw,2.7rem); }
+.admin-stats { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 18px; }
+.admin-stat, .admin-card { border: 1px solid var(--border-subtle); background: var(--surface-card); border-radius: 15px; padding: 20px; }
+.admin-stat strong { display: block; font-size: 2rem; background: var(--brand-gradient); color: transparent; background-clip: text; }
+.admin-stat span, .admin-card p, .admin-card small { color: var(--text-muted); }
+.admin-items { display: grid; gap: 13px; }
+.admin-card h3 { margin: 0; }
+.admin-card__actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px; }
+.admin-card__actions button { border: 1px solid var(--border-hover); background: var(--surface-raised); color: var(--text-main); padding: 8px 12px; border-radius: 8px; }
+.admin-toolbar { display: flex; justify-content: space-between; margin-bottom: 16px; align-items: center; }
+#admin-editor-panel { margin-top: 30px; padding: 24px; background: var(--surface-card); border: 1px solid var(--border-subtle); border-radius: 16px; }
+.admin-editor { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.admin-editor label { display: flex; flex-direction: column; font-size: .84rem; gap: 6px; }
+.admin-editor label:has(textarea), .admin-editor-actions { grid-column: 1 / -1; }
+.admin-editor .admin-check { flex-direction: row; align-items: center; }
+.admin-editor .admin-check input { width: auto; }
+.admin-editor-actions { display: flex; gap: 12px; margin-top: 10px; }
+#admin-status { min-height: 1.5rem; color: var(--text-muted); }
+.admin-pagination { display: flex; gap: 12px; margin-top: 20px; }
+.admin-pagination button { padding: 9px 12px; border: 1px solid var(--border-hover); background: var(--surface-raised); color: var(--text-main); border-radius: 8px; }
+@media(max-width: 768px) { .admin-layout { grid-template-columns: 1fr; }.admin-sidebar { position: static; flex-direction: row; flex-wrap: wrap; }.admin-sidebar h2 { width: 100%; }.admin-top { align-items: start; }.admin-editor { grid-template-columns: 1fr; } }
+@media(max-width: 375px) { .admin-stats { grid-template-columns: 1fr; } }
+.admin-login-logo { margin-bottom: 18px; }
+.admin-login-logo .brand__svg { width: 90px; height: 48px; }
+.admin-sidebar-logo .brand__svg { width: 65px; height: 38px; }
+.admin-editor-help { margin: -4px 0 18px; color: var(--text-muted); line-height: 1.65; }
+.admin-field-hint { color: var(--text-dim); line-height: 1.5; }
+.admin-editor textarea[name="problemStatement"],
+.admin-editor textarea[name="architectureOverview"] { min-height: 130px; resize: vertical; }
+.admin-editor textarea[name="architectureFlow"],
+.admin-editor textarea[name="keyMetrics"] { min-height: 150px; resize: vertical; font-family: var(--font-code); font-size: .82rem; }
