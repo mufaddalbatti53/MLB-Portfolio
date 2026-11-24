@@ -33,8 +33,8 @@
 #admin-status { min-height: 1.5rem; color: var(--text-muted); }
 .admin-pagination { display: flex; gap: 12px; margin-top: 20px; }
 .admin-pagination button { padding: 9px 12px; border: 1px solid var(--border-hover); background: var(--surface-raised); color: var(--text-main); border-radius: 8px; }
-@media(max-width: 768px) { .admin-layout { grid-template-columns: 1fr; }.admin-sidebar { position: static; flex-direction: row; flex-wrap: wrap; }.admin-sidebar h2 { width: 100%; }.admin-top { align-items: start; }.admin-editor { grid-template-columns: 1fr; } }
-@media(max-width: 375px) { .admin-stats { grid-template-columns: 1fr; } }
+@media(max-width: 768px) { .admin-layout { grid-template-columns: minmax(0, 1fr); }.admin-sidebar { position: static; flex-direction: row; flex-wrap: wrap; }.admin-sidebar h2 { width: 100%; }.admin-top { align-items: start; }.admin-editor { grid-template-columns: minmax(0, 1fr); } }
+@media(max-width: 375px) { .admin-stats { grid-template-columns: minmax(0, 1fr); } }
 .admin-login-logo { margin-bottom: 18px; }
 .admin-login-logo .brand__svg { width: 90px; height: 48px; }
 .admin-sidebar-logo .brand__svg { width: 65px; height: 38px; }
@@ -44,3 +44,5 @@
 .admin-editor textarea[name="architectureOverview"] { min-height: 130px; resize: vertical; }
 .admin-editor textarea[name="architectureFlow"],
 .admin-editor textarea[name="keyMetrics"] { min-height: 150px; resize: vertical; font-family: var(--font-code); font-size: .82rem; }
+
+@media (max-width: 768px) { .admin-top, .admin-toolbar, .admin-editor-actions { flex-wrap: wrap; } .admin-card, .admin-content, .admin-editor label { min-width: 0; overflow-wrap: anywhere; } }

@@ -1,3 +1,5 @@
+> Historical report: superseded by MOBILE_FIT_QA.md. The extra theme row was removed in release v5.
+
 # Final release review — 2026-11-24
 
 This complete archive is based on the latest three-theme visibility release. The earlier QA report contained wording rejected by the source audit; that wording has been corrected. The application source, SEO, backend and deployment configuration are retained.

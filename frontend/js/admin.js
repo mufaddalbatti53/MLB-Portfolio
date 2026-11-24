@@ -1,4 +1,4 @@
-import { initTheme } from './theme.js?v=20261124-theme-visible-v4';
+import { initTheme } from './theme.js?v=20261124-mobile-fit-v5';
 import {
   createAdminItem,
   createExperience,

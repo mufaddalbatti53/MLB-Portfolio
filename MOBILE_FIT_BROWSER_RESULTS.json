@@ -1,0 +1,6104 @@
+[
+  [
+    280,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    280,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    280,
+    "admin.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    280,
+    "privacy.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    280,
+    "terms.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    280,
+    "thank-you.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "real viewport fit {'scroll': 280, 'client': 280, 'inner': 280, 'visual': 280}",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    280,
+    "404.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "real viewport fit {'scroll': 320, 'client': 320, 'inner': 320, 'visual': 320}",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "real viewport fit {'scroll': 320, 'client': 320, 'inner': 320, 'visual': 320}",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "real viewport fit {'scroll': 320, 'client': 320, 'inner': 320, 'visual': 320}",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "real viewport fit {'scroll': 320, 'client': 320, 'inner': 320, 'visual': 320}",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "real viewport fit {'scroll': 320, 'client': 320, 'inner': 320, 'visual': 320}",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "real viewport fit {'scroll': 360, 'client': 360, 'inner': 360, 'visual': 360}",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "real viewport fit {'scroll': 360, 'client': 360, 'inner': 360, 'visual': 360}",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "real viewport fit {'scroll': 360, 'client': 360, 'inner': 360, 'visual': 360}",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "real viewport fit {'scroll': 360, 'client': 360, 'inner': 360, 'visual': 360}",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "real viewport fit {'scroll': 360, 'client': 360, 'inner': 360, 'visual': 360}",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    360,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "real viewport fit {'scroll': 375, 'client': 375, 'inner': 375, 'visual': 375}",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "real viewport fit {'scroll': 375, 'client': 375, 'inner': 375, 'visual': 375}",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "real viewport fit {'scroll': 375, 'client': 375, 'inner': 375, 'visual': 375}",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "real viewport fit {'scroll': 375, 'client': 375, 'inner': 375, 'visual': 375}",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "real viewport fit {'scroll': 375, 'client': 375, 'inner': 375, 'visual': 375}",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    390,
+    "admin.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    390,
+    "privacy.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    390,
+    "terms.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    390,
+    "thank-you.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "real viewport fit {'scroll': 390, 'client': 390, 'inner': 390, 'visual': 390}",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    390,
+    "404.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "real viewport fit {'scroll': 412, 'client': 412, 'inner': 412, 'visual': 412}",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "real viewport fit {'scroll': 412, 'client': 412, 'inner': 412, 'visual': 412}",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "real viewport fit {'scroll': 412, 'client': 412, 'inner': 412, 'visual': 412}",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "real viewport fit {'scroll': 412, 'client': 412, 'inner': 412, 'visual': 412}",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "real viewport fit {'scroll': 412, 'client': 412, 'inner': 412, 'visual': 412}",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "real viewport fit {'scroll': 430, 'client': 430, 'inner': 430, 'visual': 430}",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "real viewport fit {'scroll': 430, 'client': 430, 'inner': 430, 'visual': 430}",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "real viewport fit {'scroll': 430, 'client': 430, 'inner': 430, 'visual': 430}",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "real viewport fit {'scroll': 430, 'client': 430, 'inner': 430, 'visual': 430}",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "real viewport fit {'scroll': 430, 'client': 430, 'inner': 430, 'visual': 430}",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    430,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "real viewport fit {'scroll': 768, 'client': 768, 'inner': 768, 'visual': 768}",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "real viewport fit {'scroll': 768, 'client': 768, 'inner': 768, 'visual': 768}",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "real viewport fit {'scroll': 768, 'client': 768, 'inner': 768, 'visual': 768}",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "real viewport fit {'scroll': 768, 'client': 768, 'inner': 768, 'visual': 768}",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "real viewport fit {'scroll': 768, 'client': 768, 'inner': 768, 'visual': 768}",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "real viewport fit {'scroll': 820, 'client': 820, 'inner': 820, 'visual': 820}",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "real viewport fit {'scroll': 820, 'client': 820, 'inner': 820, 'visual': 820}",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "real viewport fit {'scroll': 820, 'client': 820, 'inner': 820, 'visual': 820}",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "real viewport fit {'scroll': 820, 'client': 820, 'inner': 820, 'visual': 820}",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "real viewport fit {'scroll': 820, 'client': 820, 'inner': 820, 'visual': 820}",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "real viewport fit {'scroll': 1024, 'client': 1024, 'inner': 1024, 'visual': 1024}",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "real viewport fit {'scroll': 1024, 'client': 1024, 'inner': 1024, 'visual': 1024}",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "real viewport fit {'scroll': 1024, 'client': 1024, 'inner': 1024, 'visual': 1024}",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "real viewport fit {'scroll': 1024, 'client': 1024, 'inner': 1024, 'visual': 1024}",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "real viewport fit {'scroll': 1024, 'client': 1024, 'inner': 1024, 'visual': 1024}",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "real viewport fit {'scroll': 1200, 'client': 1200, 'inner': 1200, 'visual': 1200}",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "real viewport fit {'scroll': 1200, 'client': 1200, 'inner': 1200, 'visual': 1200}",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "real viewport fit {'scroll': 1200, 'client': 1200, 'inner': 1200, 'visual': 1200}",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "real viewport fit {'scroll': 1200, 'client': 1200, 'inner': 1200, 'visual': 1200}",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "real viewport fit {'scroll': 1200, 'client': 1200, 'inner': 1200, 'visual': 1200}",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "switch with menu open",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "menu closes",
+    "PASS"
+  ],
+  [
+    1200,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "real viewport fit {'scroll': 1201, 'client': 1201, 'inner': 1201, 'visual': 1201}",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "real viewport fit {'scroll': 1201, 'client': 1201, 'inner': 1201, 'visual': 1201}",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "real viewport fit {'scroll': 1201, 'client': 1201, 'inner': 1201, 'visual': 1201}",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "real viewport fit {'scroll': 1201, 'client': 1201, 'inner': 1201, 'visual': 1201}",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "real viewport fit {'scroll': 1201, 'client': 1201, 'inner': 1201, 'visual': 1201}",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1201,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero-portrait__frame",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero h1",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .hero__eyebrow",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "bounds .site-header__inner",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "no page exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "one header switch",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "no duplicate theme row",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "switch fits viewport and touch target",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "visible caption dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "visible caption light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "visible caption dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "real viewport fit {'scroll': 1440, 'client': 1440, 'inner': 1440, 'visual': 1440}",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "no page exceptions",
+    "PASS"
+  ]
+]

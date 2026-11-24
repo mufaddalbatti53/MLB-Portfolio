@@ -1,3 +1,5 @@
+> Historical report: superseded by MOBILE_FIT_QA.md. The extra theme row was removed in release v5.
+
 # Theme visibility review — release 20261124-theme-visible-v4
 
 ## Findings

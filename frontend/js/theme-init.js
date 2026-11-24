@@ -27,11 +27,6 @@
       if (caption) caption.textContent = current.label;
     });
 
-    document.querySelectorAll('[data-theme-choice]').forEach((button) => {
-      const selected = button.dataset.themeChoice === current.id;
-      button.classList.toggle('is-active', selected);
-      button.setAttribute('aria-pressed', String(selected));
-    });
   };
 
   const apply = (value, persist = false) => {
@@ -58,8 +53,6 @@
       return;
     }
 
-    const choice = event.target.closest?.('[data-theme-choice]');
-    if (choice) apply(choice.dataset.themeChoice, true);
   });
 
   document.addEventListener('DOMContentLoaded', sync, { once: true });

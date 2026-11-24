@@ -37,18 +37,19 @@ for (const mode of ['light', 'dusk', 'dark', 'light', 'dusk', 'dark', 'light']) 
 assert.equal(storage.get('mlb-theme'), 'dusk');
 controller = createController(false);
 assert.equal(controller.element.dataset.theme, 'dusk');
-for (const choice of controller.choices) {
-  controller.click(choice);
-  assert.equal(controller.element.dataset.theme, choice.dataset.themeChoice);
-  assert.equal(choice.attributes['aria-pressed'], 'true');
+for (const mode of ['dusk','dark','light','dusk']) {
+  assert.equal(controller.element.dataset.theme, mode);
+  assert.equal(controller.toggle.caption.textContent, mode[0].toUpperCase()+mode.slice(1));
+  controller.click(controller.toggle);
 }
 assert.match(css, /\[data-theme="dusk"\]\s*\{[^}]*--surface-base:\s*#AEB7C5/i);
 for (const page of fs.readdirSync(root).filter(name => name.endsWith('.html'))) {
   const html = fs.readFileSync(path.join(root, page), 'utf8');
-  assert.match(html, /theme-init\.js\?v=20261124-theme-visible-v4/);
-  assert.match(html, /main\.css\?v=20261124-theme-visible-v4/);
+  assert.match(html, /theme-init\.js\?v=20261124-mobile-fit-v5/);
+  assert.match(html, /main\.css\?v=20261124-mobile-fit-v5/);
   assert.match(html, /data-theme-toggle/);
-  for (const mode of ["light", "dusk", "dark"]) assert.ok(html.includes(`data-theme-choice="${mode}"`), `${page}: missing ${mode}`);
+  assert.equal((html.match(/data-theme-toggle/g) || []).length, 1, `${page}: expected one switch`);
+  assert.ok(!html.includes("data-theme-choice") && !html.includes("theme-bar"), `${page}: duplicate controls remain`);
 }
-assert.match(fs.readFileSync(path.join(root, 'index.html'), 'utf8'), /data-theme-choice="dusk"/);
-console.log('PASS: repeated theme cycle, Dusk persistence, direct selection, palette and versioned references on every page.');
+
+console.log('PASS: repeated theme cycle, Dusk persistence, single-switch markup, palette and versioned references on every page.');
