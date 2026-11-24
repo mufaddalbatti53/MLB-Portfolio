@@ -16,6 +16,7 @@ import java.util.regex.Pattern;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.annotation.Order;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
@@ -43,7 +44,8 @@ public final class DataSeeder implements ApplicationRunner {
     private final String signingKey;
     private final int jwtTtlMinutes;
     private final Clock clock;
-
+    
+    @Autowired
     public DataSeeder(
             MongoTemplate mongo,
             PortfolioProfileRepository profiles,
