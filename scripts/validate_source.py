@@ -202,7 +202,9 @@ def check_frontend_scripts() -> None:
             fail((js.parent / import_path).exists(), f"{js.relative_to(ROOT)}: missing import {import_path}")
 
     theme_init = read(FRONTEND / "js/theme-init.js")
+    theme = read(FRONTEND / "js/theme.js")
     fail("mlb-theme" in theme_init and "prefers-color-scheme" in theme_init, "theme-init.js: persistence/system preference missing")
+    fail("dusk" in theme_init and "dusk" in theme, "theme: dusk mode missing")
     search = read(FRONTEND / "js/search.js")
     fail("event.ctrlKey" in search and "event.metaKey" in search and "event.key.toLowerCase() === 'k'" in search,
          "search.js: Ctrl/Cmd+K binding missing")

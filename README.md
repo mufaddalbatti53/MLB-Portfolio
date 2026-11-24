@@ -90,9 +90,10 @@ Render should additionally set:
 SPRING_PROFILES_ACTIVE=production
 SEED_INITIAL_DATA=true
 MAIL_ENABLED=false
+MANAGEMENT_HEALTH_MAIL_ENABLED=false
 ```
 
-Optional mail settings are `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`, `SMTP_AUTH`, `SMTP_STARTTLS`, `MAIL_FROM`, and `CONTACT_NOTIFY_EMAIL`. Optional operational settings include `JWT_TTL_MINUTES`, `CONTACT_RETENTION_DAYS`, `CONTACT_MAX_PER_HOUR`, `FEEDBACK_RETENTION_DAYS`, `MAIL_POLL_INTERVAL_MS`, and `TRUSTED_PROXY_CIDRS`.
+Optional mail settings are `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`, `SMTP_AUTH`, `SMTP_STARTTLS`, `MAIL_FROM`, and `CONTACT_NOTIFY_EMAIL`. Optional operational settings include `JWT_TTL_MINUTES`, `CONTACT_RETENTION_DAYS`, `CONTACT_MAX_PER_HOUR`, `FEEDBACK_RETENTION_DAYS`, `MAIL_POLL_INTERVAL_MS`, and `TRUSTED_PROXY_CIDRS`. Keep `MANAGEMENT_HEALTH_MAIL_ENABLED=false` while SMTP is disabled so Actuator health does not fail on mail connectivity.
 
 ## Generate production secrets
 
@@ -152,7 +153,7 @@ The project is designed for the repository path `/Mufaddal-Portfolio/`; navigati
 3. Open **Settings → Pages** and choose **GitHub Actions** as the source.
 4. Push a change under `frontend/**` to `main`, or manually run **Deploy frontend to GitHub Pages**.
 5. The workflow copies `frontend/` into the Pages artifact, injects the exact Render API origin into the `mlb-api-origin` meta tag, replaces canonical project URLs using GitHub Pages metadata, and narrows `connect-src` to that exact Render origin.
-6. Open `https://mufaddalbatti53.github.io/Mufaddal-Portfolio/` and verify the portrait, theme switch, search, feedback dialog, case-study dialog, contact form, and admin page.
+6. Open `https://mufaddalbatti53.github.io/Mufaddal-Portfolio/` and verify the portrait, Light/Dusk/Dark theme switch, search, feedback dialog, case-study dialog, contact form, and admin page.
 
 `robots.txt` is shipped inside the project path. GitHub Pages project sites do not control the host-root `robots.txt`, so sensitive pages also use HTML `noindex`; crawler directives never replace authentication.
 

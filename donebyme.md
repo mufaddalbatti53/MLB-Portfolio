@@ -80,6 +80,7 @@ CORS_ALLOWED_ORIGINS=https://mufaddalbatti53.github.io
 SPRING_PROFILES_ACTIVE=production
 SEED_INITIAL_DATA=true
 MAIL_ENABLED=false
+MANAGEMENT_HEALTH_MAIL_ENABLED=false
 ```
 
 7. Do not manually set `PORT` unless Render specifically requires it; the service reads Render's assigned `PORT` and falls back to `8080` outside Render.
@@ -130,7 +131,7 @@ On the actual GitHub Pages URL, verify all of the following:
 - The MLB SVG logo is sharp in the header and footer.
 - The uploaded portrait appears in the hero with no layout jump.
 - The dark theme loads correctly on first visit.
-- The Light/Dark toggle works and survives a page reload through `mlb-theme`.
+- The Light/Dusk/Dark theme control works and survives a page reload through `mlb-theme`.
 - `Ctrl+K` or `Cmd+K` opens search.
 - Search finds projects, work experience, skills, and blog entries and the result links work inside `/Mufaddal-Portfolio/`.
 - Escape closes the native search dialog.
