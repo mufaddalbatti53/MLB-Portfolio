@@ -72,7 +72,7 @@
   --space-16: 64px;
   --space-20: 80px;
   --transition-fast: 180ms ease;
-  --transition-theme: 240ms ease;
+  --transition-theme: 340ms cubic-bezier(.2, .7, .2, 1);
 }
 
 :root,
@@ -81,56 +81,56 @@
 }
 
 [data-theme="dusk"] {
-  color-scheme: dark;
-  --surface-base: #171824;
-  --surface-card: #202235;
-  --surface-raised: #292C43;
-  --surface-input: #1B1D2D;
-  --border-subtle: #34384F;
-  --border-hover: #4C5270;
-  --card-hover-border: #666D92;
-  --text-main: #F6F3FF;
-  --text-muted: #C3BED7;
-  --text-dim: #9A94B2;
-  --accent-success: #46D7A3;
-  --accent-error: #FF879B;
-  --focus-ring: #8396FF;
-  --link-accent: #B5A8FF;
-  --accent-text: #C6BAFF;
-  --eyebrow-text: #BFB4FF;
-  --status-error: #FFABB8;
-  --status-success: #8AE7C4;
-  --accent-soft: rgba(141, 116, 255, .13);
-  --accent-soft-border: rgba(157, 136, 255, .28);
-  --success-ring: rgba(70, 215, 163, .14);
-  --focus-shadow: rgba(131, 150, 255, .20);
-  --selection-bg: rgba(141, 116, 255, .46);
-  --selection-text: #FFFFFF;
-  --page-background: radial-gradient(circle at 88% 6%, rgba(88, 109, 238, .13), transparent 31%), radial-gradient(circle at 7% 44%, rgba(200, 75, 158, .07), transparent 25%), #171824;
-  --header-bg: rgba(23, 24, 36, .91);
-  --header-border: rgba(82, 83, 114, .52);
-  --section-tint: linear-gradient(180deg, rgba(43, 44, 67, .64), rgba(23, 24, 36, 0));
-  --project-visual-bg: radial-gradient(ellipse at 28% 40%, rgba(78, 105, 235, .22), transparent 60%), linear-gradient(125deg, #2B2D4A, #1D1E30);
-  --empty-bg: rgba(42, 43, 66, .58);
-  --nav-mobile-bg: rgba(31, 33, 51, .98);
-  --mobile-cta-bg: rgba(32, 34, 53, .96);
-  --cookie-bg: #24273A;
-  --cookie-border: #4A4E6A;
-  --skeleton-gradient: linear-gradient(100deg, #272A3D 8%, #383C56 18%, #272A3D 33%);
-  --modal-backdrop: rgba(10, 8, 20, .68);
-  --hero-glow-blue: rgba(80, 103, 235, .18);
-  --hero-glow-violet: rgba(137, 111, 248, .11);
-  --hero-glow-pink: rgba(200, 75, 158, .10);
-  --portrait-inset: rgba(255, 255, 255, .09);
-  --portrait-pill-shadow: 0 14px 40px rgba(8, 6, 20, .28);
-  --brand-shadow: 0 8px 26px rgba(122, 90, 248, .24);
-  --primary-shadow: 0 12px 32px rgba(86, 88, 230, .24);
-  --primary-shadow-hover: 0 16px 38px rgba(100, 88, 238, .35);
-  --shadow-card: 0 18px 52px rgba(5, 4, 15, .28);
-  --modal-shadow: 0 24px 80px rgba(7, 6, 18, .46);
-  --portrait-shadow: 0 24px 66px rgba(8, 6, 20, .38), 0 0 44px rgba(122, 90, 248, .17);
-  --portrait-pill-bg: rgba(32, 34, 53, .84);
-  --portrait-pill-border: rgba(181, 168, 255, .25);
+  color-scheme: light;
+  --surface-base: #AEB7C5;
+  --surface-card: #BEC5D0;
+  --surface-raised: #CBD1DA;
+  --surface-input: #D8DDE4;
+  --border-subtle: #929CAA;
+  --border-hover: #778295;
+  --card-hover-border: #66728A;
+  --text-main: #172033;
+  --text-muted: #344156;
+  --text-dim: #4B596D;
+  --accent-success: #0B6B4C;
+  --accent-error: #A52C46;
+  --focus-ring: #3D4FD7;
+  --link-accent: #4939B7;
+  --accent-text: #4636AF;
+  --eyebrow-text: #4939B7;
+  --status-error: #8C233A;
+  --status-success: #075E43;
+  --accent-soft: rgba(73, 57, 183, .12);
+  --accent-soft-border: rgba(73, 57, 183, .27);
+  --success-ring: rgba(11, 107, 76, .15);
+  --focus-shadow: rgba(61, 79, 215, .18);
+  --selection-bg: rgba(73, 57, 183, .24);
+  --selection-text: #172033;
+  --page-background: radial-gradient(circle at 90% 5%, rgba(67, 89, 210, .13), transparent 30%), radial-gradient(circle at 8% 44%, rgba(169, 69, 139, .08), transparent 25%), #AEB7C5;
+  --header-bg: rgba(190, 197, 208, .91);
+  --header-border: rgba(91, 103, 122, .48);
+  --section-tint: linear-gradient(180deg, rgba(203, 209, 218, .78), rgba(174, 183, 197, 0));
+  --project-visual-bg: radial-gradient(ellipse at 28% 40%, rgba(59, 102, 245, .16), transparent 60%), linear-gradient(125deg, #C7CFDE, #CEC6D4);
+  --empty-bg: rgba(202, 208, 218, .72);
+  --nav-mobile-bg: rgba(195, 202, 213, .98);
+  --mobile-cta-bg: rgba(190, 197, 208, .96);
+  --cookie-bg: #C7CDD6;
+  --cookie-border: #8792A3;
+  --skeleton-gradient: linear-gradient(100deg, #9FA9B7 8%, #C8CED8 18%, #9FA9B7 33%);
+  --modal-backdrop: rgba(18, 24, 38, .46);
+  --hero-glow-blue: rgba(59, 102, 245, .15);
+  --hero-glow-violet: rgba(122, 90, 248, .10);
+  --hero-glow-pink: rgba(200, 75, 158, .08);
+  --portrait-inset: rgba(255, 255, 255, .25);
+  --portrait-pill-shadow: 0 14px 34px rgba(29, 38, 55, .18);
+  --brand-shadow: 0 8px 24px rgba(73, 57, 183, .18);
+  --primary-shadow: 0 12px 30px rgba(59, 78, 190, .20);
+  --primary-shadow-hover: 0 16px 36px rgba(73, 57, 183, .27);
+  --shadow-card: 0 16px 42px rgba(31, 40, 57, .15);
+  --modal-shadow: 0 24px 70px rgba(24, 31, 45, .24);
+  --portrait-shadow: 0 22px 58px rgba(31, 40, 57, .22), 0 0 38px rgba(122, 90, 248, .10);
+  --portrait-pill-bg: rgba(202, 208, 218, .90);
+  --portrait-pill-border: rgba(94, 105, 123, .42);
 }
 
 [data-theme="light"] {
