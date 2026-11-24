@@ -1,4 +1,4 @@
-@import url('./variables.css');
+@import url('./variables.css?v=20261124-3themes');
 *, *::before, *::after { box-sizing: border-box; }
 html { scroll-behavior: smooth; scroll-padding-top: 100px; }
 body { margin: 0; min-width: 320px; background: var(--page-background); color: var(--text-main); font: 400 16px/1.65 var(--font-body); -webkit-font-smoothing: antialiased; }
@@ -339,6 +339,8 @@ mark { background: var(--selection-bg); color: var(--text-main); border-radius: 
     padding: 0;
   }
 
+  .site-header:has(.site-nav.is-open) { z-index: 90; }
+
   .site-nav {
     max-height: calc(100dvh - 68px);
     overflow-y: auto;
@@ -347,9 +349,10 @@ mark { background: var(--selection-bg); color: var(--text-main); border-radius: 
 
   .mobile-theme-panel {
     display: block;
-    margin-top: 9px;
-    padding-top: 16px;
-    border-top: 1px solid var(--border-subtle);
+    order: -1;
+    margin-bottom: 9px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border-subtle);
   }
 
   .mobile-theme-panel__label {
@@ -395,7 +398,7 @@ mark { background: var(--selection-bg); color: var(--text-main); border-radius: 
   .brand__svg { width: 48px; height: 31px; }
   .header-utilities { gap: 3px; }
   .header-utilities .utility-button,
-  .nav-toggle { width: 40px; min-width: 40px; height: 40px; }
+  .nav-toggle { width: 44px; min-width: 44px; height: 44px; }
 }
 
 .profile-summary {

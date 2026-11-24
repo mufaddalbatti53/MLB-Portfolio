@@ -134,7 +134,7 @@ def check_html() -> dict[str, str]:
         fail(not parser.inline_handlers, f"{name}: inline event handler found")
         fail(all(img.get("alt") is not None for img in parser.images), f"{name}: image missing alt")
         fail(all(script.get("src") or script.get("type") == "application/ld+json" for script in parser.scripts), f"{name}: executable inline script found")
-        fail(any((script.get("src") or "").endswith("./js/theme-init.js") for script in parser.scripts),
+        fail(any((script.get("src") or "").split("?", 1)[0].endswith("./js/theme-init.js") for script in parser.scripts),
              f"{name}: theme-init.js missing")
         fail('data-theme-toggle' in document, f"{name}: theme toggle missing")
         fail('./assets/logo.svg' in document, f"{name}: standalone logo missing")
@@ -209,7 +209,7 @@ def check_frontend_scripts() -> None:
         source = read(js)
         fail(not banned.search(source), f"{js.relative_to(ROOT)}: unsafe JavaScript API")
         for import_path in re.findall(r"\bfrom\s*['\"](\.[^'\"]+)['\"]", source):
-            fail((js.parent / import_path).exists(), f"{js.relative_to(ROOT)}: missing import {import_path}")
+            fail((js.parent / import_path.split("?", 1)[0]).exists(), f"{js.relative_to(ROOT)}: missing import {import_path}")
 
     theme_init = read(FRONTEND / "js/theme-init.js")
     theme = read(FRONTEND / "js/theme.js")

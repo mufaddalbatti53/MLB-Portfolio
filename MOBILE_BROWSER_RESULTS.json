@@ -1,0 +1,452 @@
+[
+  [
+    "Pixel 7",
+    "initial system light",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "header tap target >=44px",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "header tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "Pixel 7",
+    "header tap -> dark",
+    "PASS",
+    "dark"
+  ],
+  [
+    "Pixel 7",
+    "header tap -> light",
+    "PASS",
+    "light"
+  ],
+  [
+    "Pixel 7",
+    "header tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "Pixel 7",
+    "header tap -> dark",
+    "PASS",
+    "dark"
+  ],
+  [
+    "Pixel 7",
+    "header tap -> light",
+    "PASS",
+    "light"
+  ],
+  [
+    "Pixel 7",
+    "open mobile menu",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "menu tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "Pixel 7",
+    "menu tap -> dark",
+    "PASS",
+    "dark"
+  ],
+  [
+    "Pixel 7",
+    "menu tap -> light",
+    "PASS",
+    "light"
+  ],
+  [
+    "Pixel 7",
+    "menu tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "Pixel 7",
+    "menu selected state",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "Dusk computed background",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "Dusk mobile browser color metadata",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "close menu via toggle",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "background dark",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "background light",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "background dusk",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "no horizontal overflow",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "storage write",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "admin initial saved choice (storage shim)",
+    "PASS",
+    "True"
+  ],
+  [
+    "Pixel 7",
+    "admin header touch",
+    "PASS",
+    "dark"
+  ],
+  [
+    "Pixel 7",
+    "JS runtime errors",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "initial system light",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "header tap target >=44px",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "header tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "iPhone 13",
+    "header tap -> dark",
+    "PASS",
+    "dark"
+  ],
+  [
+    "iPhone 13",
+    "header tap -> light",
+    "PASS",
+    "light"
+  ],
+  [
+    "iPhone 13",
+    "header tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "iPhone 13",
+    "header tap -> dark",
+    "PASS",
+    "dark"
+  ],
+  [
+    "iPhone 13",
+    "header tap -> light",
+    "PASS",
+    "light"
+  ],
+  [
+    "iPhone 13",
+    "open mobile menu",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "menu tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "iPhone 13",
+    "menu tap -> dark",
+    "PASS",
+    "dark"
+  ],
+  [
+    "iPhone 13",
+    "menu tap -> light",
+    "PASS",
+    "light"
+  ],
+  [
+    "iPhone 13",
+    "menu tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "iPhone 13",
+    "menu selected state",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "Dusk computed background",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "Dusk mobile browser color metadata",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "close menu via toggle",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "background dark",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "background light",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "background dusk",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "no horizontal overflow",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "storage write",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "admin initial saved choice (storage shim)",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone 13",
+    "admin header touch",
+    "PASS",
+    "dark"
+  ],
+  [
+    "iPhone 13",
+    "JS runtime errors",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "initial system light",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "header tap target >=44px",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "header tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "iPhone SE",
+    "header tap -> dark",
+    "PASS",
+    "dark"
+  ],
+  [
+    "iPhone SE",
+    "header tap -> light",
+    "PASS",
+    "light"
+  ],
+  [
+    "iPhone SE",
+    "header tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "iPhone SE",
+    "header tap -> dark",
+    "PASS",
+    "dark"
+  ],
+  [
+    "iPhone SE",
+    "header tap -> light",
+    "PASS",
+    "light"
+  ],
+  [
+    "iPhone SE",
+    "open mobile menu",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "menu tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "iPhone SE",
+    "menu tap -> dark",
+    "PASS",
+    "dark"
+  ],
+  [
+    "iPhone SE",
+    "menu tap -> light",
+    "PASS",
+    "light"
+  ],
+  [
+    "iPhone SE",
+    "menu tap -> dusk",
+    "PASS",
+    "dusk"
+  ],
+  [
+    "iPhone SE",
+    "menu selected state",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "Dusk computed background",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "Dusk mobile browser color metadata",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "close menu via toggle",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "background dark",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "background light",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "background dusk",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "no horizontal overflow",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "storage write",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "admin initial saved choice (storage shim)",
+    "PASS",
+    "True"
+  ],
+  [
+    "iPhone SE",
+    "admin header touch",
+    "PASS",
+    "dark"
+  ],
+  [
+    "iPhone SE",
+    "JS runtime errors",
+    "PASS",
+    "True"
+  ]
+]

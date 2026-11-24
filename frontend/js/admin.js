@@ -1,4 +1,4 @@
-import { initTheme } from './theme.js';
+import { initTheme } from './theme.js?v=20261124-3themes';
 import {
   createAdminItem,
   createExperience,

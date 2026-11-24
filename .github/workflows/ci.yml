@@ -96,6 +96,9 @@ jobs:
       - name: Run repository source audit
         run: python3 scripts/validate_source.py
 
+      - name: Test three-theme interaction
+        run: node tests/test_theme_cycle.cjs
+
       - name: Verify SEO discovery files
         shell: bash
         run: |
