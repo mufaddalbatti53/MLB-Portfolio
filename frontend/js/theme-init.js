@@ -37,7 +37,6 @@
   const apply = (value, persist = false) => {
     const current = modeFor(value);
     document.documentElement.dataset.theme = current.id;
-    document.documentElement.style.colorScheme = current.scheme;
     if (persist) {
       try { localStorage.setItem('mlb-theme', current.id); } catch { }
     }
@@ -53,13 +52,13 @@
   apply(preferred);
 
   document.addEventListener('click', (event) => {
-    const toggle = event.target.closest('[data-theme-toggle]');
+    const toggle = event.target.closest?.('[data-theme-toggle]');
     if (toggle) {
       apply(nextMode(document.documentElement.dataset.theme).id, true);
       return;
     }
 
-    const choice = event.target.closest('[data-theme-choice]');
+    const choice = event.target.closest?.('[data-theme-choice]');
     if (choice) apply(choice.dataset.themeChoice, true);
   });
 

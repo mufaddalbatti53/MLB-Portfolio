@@ -1,0 +1,3680 @@
+[
+  [
+    320,
+    "index.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    320,
+    "index.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    320,
+    "admin.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    320,
+    "privacy.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    320,
+    "terms.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    320,
+    "thank-you.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    320,
+    "404.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    375,
+    "index.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    390,
+    "index.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    412,
+    "index.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    768,
+    "index.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    820,
+    "index.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "menu opens",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "menu closes on theme choice",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    1024,
+    "index.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    1440,
+    "index.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    1440,
+    "admin.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    1440,
+    "privacy.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    1440,
+    "terms.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    1440,
+    "thank-you.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "exactly three choices",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "visible and tappable light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "visible and tappable dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "visible and tappable dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed color dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "selected dark",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed color light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "selected light",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "theme dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "computed color dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "selected dusk",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "storage written",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "no horizontal overflow",
+    "PASS"
+  ],
+  [
+    1440,
+    "404.html",
+    "no JavaScript exceptions",
+    "PASS"
+  ]
+]

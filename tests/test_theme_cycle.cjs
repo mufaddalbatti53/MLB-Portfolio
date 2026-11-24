@@ -45,9 +45,10 @@ for (const choice of controller.choices) {
 assert.match(css, /\[data-theme="dusk"\]\s*\{[^}]*--surface-base:\s*#AEB7C5/i);
 for (const page of fs.readdirSync(root).filter(name => name.endsWith('.html'))) {
   const html = fs.readFileSync(path.join(root, page), 'utf8');
-  assert.match(html, /theme-init\.js\?v=20261124-3themes/);
-  assert.match(html, /main\.css\?v=20261124-mobileqa/);
+  assert.match(html, /theme-init\.js\?v=20261124-theme-visible-v4/);
+  assert.match(html, /main\.css\?v=20261124-theme-visible-v4/);
   assert.match(html, /data-theme-toggle/);
+  for (const mode of ["light", "dusk", "dark"]) assert.ok(html.includes(`data-theme-choice="${mode}"`), `${page}: missing ${mode}`);
 }
 assert.match(fs.readFileSync(path.join(root, 'index.html'), 'utf8'), /data-theme-choice="dusk"/);
 console.log('PASS: repeated theme cycle, Dusk persistence, direct selection, palette and versioned references on every page.');
