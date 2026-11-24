@@ -4,12 +4,12 @@ MLB is Mufaddal Battiwala's full-stack developer portfolio. The production topol
 
 ## Production URLs
 
-- Frontend: `https://mufaddalbatti53.github.io/Mufaddal-Portfolio/`
+- Frontend: `https://mufaddalbatti53.github.io/MLB-Portfolio/`
 - Backend: the exact `https://<service-name>.onrender.com` origin assigned by Render
 - Health monitor: `https://<service-name>.onrender.com/actuator/health`
-- Admin UI: `https://mufaddalbatti53.github.io/Mufaddal-Portfolio/admin.html`
+- Admin UI: `https://mufaddalbatti53.github.io/MLB-Portfolio/admin.html`
 
-Do not use `https://github.io` or `https://onrender.com` as application origins. CORS must contain only origins such as `https://mufaddalbatti53.github.io`; an origin never includes `/Mufaddal-Portfolio/`.
+Do not use `https://github.io` or `https://onrender.com` as application origins. CORS must contain only origins such as `https://mufaddalbatti53.github.io`; an origin never includes `/MLB-Portfolio/`.
 
 ## Architecture
 
@@ -146,14 +146,14 @@ The Docker image uses Maven 3.9.9 with Temurin 21 in the build stage and a Temur
 
 ## GitHub Pages setup
 
-The project is designed for the repository path `/Mufaddal-Portfolio/`; navigational links, styles, scripts, manifest icons, SVG logo, and portrait use project-relative URLs.
+The project is designed for the repository path `/MLB-Portfolio/`; navigational links, styles, scripts, manifest icons, SVG logo, and portrait use project-relative URLs.
 
 1. Open the GitHub repository **Settings → Secrets and variables → Actions → Variables**.
 2. Create the repository variable `MLB_API_ORIGIN` with the exact Render origin copied in the previous section.
 3. Open **Settings → Pages** and choose **GitHub Actions** as the source.
 4. Push a change under `frontend/**` to `main`, or manually run **Deploy frontend to GitHub Pages**.
 5. The workflow copies `frontend/` into the Pages artifact, injects the exact Render API origin into the `mlb-api-origin` meta tag, replaces canonical project URLs using GitHub Pages metadata, and narrows `connect-src` to that exact Render origin.
-6. Open `https://mufaddalbatti53.github.io/Mufaddal-Portfolio/` and verify the portrait, Light/Dusk/Dark theme switch, search, feedback dialog, case-study dialog, contact form, and admin page.
+6. Open `https://mufaddalbatti53.github.io/MLB-Portfolio/` and verify the portrait, Light/Dusk/Dark theme switch, search, feedback dialog, case-study dialog, contact form, and admin page.
 
 `robots.txt` is shipped inside the project path. GitHub Pages project sites do not control the host-root `robots.txt`, so sensitive pages also use HTML `noindex`; crawler directives never replace authentication.
 

@@ -29,10 +29,10 @@ class SiteBuildTests(unittest.TestCase):
 
     def test_accepts_github_pages_project_subpath(self):
         with patch.dict(os.environ, {
-            'SITE_BASE_URL': 'https://mufaddalbatti53.github.io/Mufaddal-Portfolio'
+            'SITE_BASE_URL': 'https://mufaddalbatti53.github.io/MLB-Portfolio'
         }, clear=True):
             base_url, _ = module.config('production')
-            self.assertEqual('https://mufaddalbatti53.github.io/Mufaddal-Portfolio', base_url)
+            self.assertEqual('https://mufaddalbatti53.github.io/MLB-Portfolio', base_url)
 
     def test_build_output_and_admin_noindex(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -44,6 +44,9 @@ class SiteBuildTests(unittest.TestCase):
             index = (build / 'index.html').read_text()
             self.assertIn('https://portfolio.example.net/work/assets/og-preview.png', index)
             self.assertIn('Mufaddal Battiwala', index)
+            self.assertIn('ProfilePage', index)
+            self.assertIn('https://portfolio.example.net/work/#mufaddal-battiwala', index)
+            self.assertRegex(index, r"script-src 'self' 'sha256-[A-Za-z0-9+/=]+'")
             self.assertIn('href="./assets/favicon.svg"', index)
             self.assertIn('noindex,nofollow', (build / 'admin.html').read_text())
             self.assertTrue((build / 'assets/logo.svg').exists())

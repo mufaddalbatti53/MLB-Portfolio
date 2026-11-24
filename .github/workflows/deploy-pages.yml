@@ -54,16 +54,32 @@ jobs:
           touch _site/.nojekyll
 
           python3 - <<'PY'
+          import base64
+          import hashlib
           import html
           import os
+          import re
           from pathlib import Path
 
           site = Path('_site')
           api_origin = os.environ['MLB_API_ORIGIN'].rstrip('/')
           pages_url = os.environ['PAGES_BASE_URL'].rstrip('/')
-          source_site = 'https://mufaddalbatti53.github.io/Mufaddal-Portfolio'
+          source_site = 'https://mufaddalbatti53.github.io/MLB-Portfolio'
           api_meta = '<meta name="mlb-api-origin" content="">'
           deployed_api_meta = f'<meta name="mlb-api-origin" content="{html.escape(api_origin, quote=True)}">'
+
+          def refresh_jsonld_csp(text):
+              match = re.search(r'<script type="application/ld\+json" id="seo-structured-data">(.*?)</script>', text, re.S)
+              if not match:
+                  return text
+              digest = base64.b64encode(hashlib.sha256(match.group(1).encode('utf-8')).digest()).decode('ascii')
+              token = f"'sha256-{digest}'"
+              meta = re.search(r'<meta http-equiv="Content-Security-Policy" content="([^"]+)">', text)
+              if not meta:
+                  raise SystemExit('Structured data page is missing CSP')
+              content = re.sub(r"\s+'sha256-[A-Za-z0-9+/=]+'", '', meta.group(1))
+              content = content.replace("script-src 'self'", "script-src 'self' " + token, 1)
+              return text[:meta.start(1)] + content + text[meta.end(1):]
 
           for path in site.glob('*.html'):
               text = path.read_text(encoding='utf-8')
@@ -72,6 +88,7 @@ jobs:
                   raise SystemExit(f'Missing API configuration meta tag in {path}')
               text = text.replace(api_meta, deployed_api_meta, 1)
               text = text.replace('https://*.onrender.com', api_origin)
+              text = refresh_jsonld_csp(text)
               path.write_text(text, encoding='utf-8')
 
           for filename in ('robots.txt', 'sitemap.xml'):

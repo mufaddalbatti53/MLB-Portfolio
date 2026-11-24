@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 FRONTEND = ROOT / "frontend"
 PAGES = ["index.html", "404.html", "thank-you.html", "privacy.html", "terms.html", "admin.html"]
 PUBLIC_PAGES = PAGES[:-1]
-SOURCE_SITE = "https://mufaddalbatti53.github.io/Mufaddal-Portfolio"
+SOURCE_SITE = "https://mufaddalbatti53.github.io/MLB-Portfolio"
 TEXT_SUFFIXES = {
     ".html", ".css", ".js", ".java", ".xml", ".yml", ".yaml", ".md", ".txt",
     ".py", ".svg", ".properties", ".example", ".gitignore", ""
@@ -133,7 +133,7 @@ def check_html() -> dict[str, str]:
         fail(parser.main_count == 1, f"{name}: expected exactly one main landmark")
         fail(not parser.inline_handlers, f"{name}: inline event handler found")
         fail(all(img.get("alt") is not None for img in parser.images), f"{name}: image missing alt")
-        fail(all(script.get("src") for script in parser.scripts), f"{name}: inline script found")
+        fail(all(script.get("src") or script.get("type") == "application/ld+json" for script in parser.scripts), f"{name}: executable inline script found")
         fail(any((script.get("src") or "").endswith("./js/theme-init.js") for script in parser.scripts),
              f"{name}: theme-init.js missing")
         fail('data-theme-toggle' in document, f"{name}: theme toggle missing")
@@ -176,10 +176,20 @@ def check_html() -> dict[str, str]:
     ]
     for value in required_identity:
         fail(value in index, f"index.html: missing verified identity value {value}")
-    for marker in ['id="project-case-study"', './assets/hero-portrait.jpg', 'fetchpriority="high"',
+    for marker in ['id="project-case-study"', './assets/mufaddal-battiwala-full-stack-developer.jpg', 'fetchpriority="high"',
                    'width="420"', 'height="420"', 'View Projects', 'Get In Touch',
                    'id="owner-tagline"', 'id="experience"', 'id="experience-list"']:
         fail(marker in index, f"index.html: hero/content marker missing: {marker}")
+    fail('<title>Mufaddal Battiwala | Full Stack Developer in Kolkata</title>' in index, "index.html: SEO title mismatch")
+    fail('id="about"' in index and 'About <span class="gradient-text">Mufaddal Battiwala.' in index, "index.html: visible identity section missing")
+    structured_match = re.search(r'<script type="application/ld\+json" id="seo-structured-data">(.*?)</script>', index, re.S)
+    fail(bool(structured_match), "index.html: JSON-LD missing")
+    structured = json.loads(structured_match.group(1))
+    fail(structured.get("@context") == "https://schema.org", "index.html: JSON-LD context invalid")
+    structured_text = json.dumps(structured)
+    for value in ["ProfilePage", "Person", "Mufaddal Battiwala", "mufaddalbatti53", SOURCE_SITE]:
+        fail(value in structured_text, f"index.html: JSON-LD missing {value}")
+    fail("sha256-" in index.split('Content-Security-Policy', 1)[1].split('>', 1)[0], "index.html: JSON-LD CSP hash missing")
     for marker in ['name="name" type="text" autocomplete="name" maxlength="100"',
                    'name="email" type="email" autocomplete="email" maxlength="254"',
                    'name="subject" type="text" maxlength="150"',
@@ -445,12 +455,14 @@ def check_assets_and_deployment() -> None:
              f"{name}: invalid PNG dimensions")
     fail((assets / "favicon.ico").read_bytes()[:4] == b"\x00\x00\x01\x00", "favicon.ico: invalid header")
     fail((assets / "hero-portrait.jpg").stat().st_size > 10_000, "hero-portrait.jpg: missing/empty")
+    fail((assets / "mufaddal-battiwala-full-stack-developer.jpg").stat().st_size > 10_000, "SEO portrait: missing/empty")
 
     robots = read(FRONTEND / "robots.txt")
-    fail("Disallow: /Mufaddal-Portfolio/admin.html" in robots, "robots.txt: admin path not disallowed")
+    fail("User-agent: *" in robots and "Allow: /" in robots, "robots.txt: crawl policy missing")
     fail(f"Sitemap: {SOURCE_SITE}/sitemap.xml" in robots, "robots.txt: sitemap URL mismatch")
     sitemap = read(FRONTEND / "sitemap.xml")
-    fail(f"{SOURCE_SITE}/" in sitemap and f"{SOURCE_SITE}/privacy.html" in sitemap, "sitemap.xml: project-site URL mismatch")
+    fail(f"<loc>{SOURCE_SITE}/</loc>" in sitemap, "sitemap.xml: canonical homepage missing")
+    fail("privacy.html" not in sitemap and "terms.html" not in sitemap, "sitemap.xml: noindex legal URLs included")
 
     docker = read(ROOT / "backend/Dockerfile")
     for marker in ["maven:3.9.9-eclipse-temurin-21-alpine", "eclipse-temurin:21-jre-alpine", "USER spring",

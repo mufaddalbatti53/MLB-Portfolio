@@ -133,7 +133,7 @@ public final class DataSeeder implements ApplicationRunner {
         }
         if (profile.getWebsiteUrl() == null || profile.getWebsiteUrl().isBlank()
                 || "https://github.io".equals(profile.getWebsiteUrl())) {
-            profile.setWebsiteUrl("https://mufaddalbatti53.github.io/Mufaddal-Portfolio/");
+            profile.setWebsiteUrl("https://mufaddalbatti53.github.io/MLB-Portfolio/");
             changed = true;
         }
         if (changed) {
@@ -324,7 +324,7 @@ public final class DataSeeder implements ApplicationRunner {
         profile.setPublicEmail("mufaddal.techpro@gmail.com");
         profile.setPhone("+91 907933526");
         profile.setLocation("Kolkata, India");
-        profile.setWebsiteUrl("https://mufaddalbatti53.github.io/Mufaddal-Portfolio/");
+        profile.setWebsiteUrl("https://mufaddalbatti53.github.io/MLB-Portfolio/");
         profile.setGithubUrl("https://github.com/mufaddalbatti53");
         profile.setLinkedinUrl("https://www.linkedin.com/in/mufaddal-tech/");
         profile.setInstagramHandle("@mlb1606");

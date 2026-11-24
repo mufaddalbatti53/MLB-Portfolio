@@ -1,7 +1,4 @@
 User-agent: *
-Allow: /Mufaddal-Portfolio/
-Disallow: /Mufaddal-Portfolio/admin.html
-Disallow: /Mufaddal-Portfolio/thank-you.html
-Disallow: /Mufaddal-Portfolio/404.html
+Allow: /
 
-Sitemap: https://mufaddalbatti53.github.io/Mufaddal-Portfolio/sitemap.xml
+Sitemap: https://mufaddalbatti53.github.io/MLB-Portfolio/sitemap.xml

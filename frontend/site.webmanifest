@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "MLB — Developer Portfolio",
-  "short_name": "MLB",
-  "description": "Projects, technical writing, and software engineering by Mufaddal Battiwala",
+  "name": "Mufaddal Battiwala — Full Stack Developer",
+  "short_name": "Mufaddal",
+  "description": "Official portfolio of Mufaddal Battiwala, Full Stack Developer in Kolkata.",
   "start_url": "./",
   "scope": "./",
   "display": "browser",
@@ -26,4 +26,3 @@
     }
   ]
 }
-

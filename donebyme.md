@@ -5,7 +5,7 @@ This is the owner execution checklist for Mufaddal Battiwala. Complete the steps
 ## 1. Create or confirm the GitHub repository
 
 1. Sign in to the GitHub account `mufaddalbatti53`.
-2. Create or confirm a repository named `Mufaddal-Portfolio`.
+2. Create or confirm a repository named `MLB-Portfolio`.
 3. Keep the default branch named `main` because both workflows target `main`.
 4. Upload/push the complete audited repository, including `.github/workflows`, `frontend`, `backend`, `scripts`, and the root documentation.
 5. Confirm the Actions tab shows both **MLB Portfolio CI** and **Deploy frontend to GitHub Pages**.
@@ -17,7 +17,7 @@ git init
 git branch -M main
 git add .
 git commit -m "Release MLB portfolio"
-git remote add origin https://github.com/mufaddalbatti53/Mufaddal-Portfolio.git
+git remote add origin https://github.com/mufaddalbatti53/MLB-Portfolio.git
 git push -u origin main
 ```
 
@@ -109,7 +109,7 @@ https://<service-name>.onrender.com/actuator/health
 
 ## 5. Connect GitHub Pages to the exact Render backend
 
-1. In GitHub, open **Mufaddal-Portfolio → Settings → Secrets and variables → Actions → Variables**.
+1. In GitHub, open **MLB-Portfolio → Settings → Secrets and variables → Actions → Variables**.
 2. Create a repository variable named `MLB_API_ORIGIN`.
 3. Set it to the exact Render origin copied in Step 4, with no extra path. Example shape: `https://<service-name>.onrender.com`.
 4. Open **Settings → Pages**.
@@ -119,7 +119,7 @@ https://<service-name>.onrender.com/actuator/health
 8. Open:
 
 ```text
-https://mufaddalbatti53.github.io/Mufaddal-Portfolio/
+https://mufaddalbatti53.github.io/MLB-Portfolio/
 ```
 
 The deployment workflow injects the Render API origin into the built HTML and keeps the project-site subpath intact.
@@ -133,7 +133,7 @@ On the actual GitHub Pages URL, verify all of the following:
 - The dark theme loads correctly on first visit.
 - The Light/Dusk/Dark theme control works and survives a page reload through `mlb-theme`.
 - `Ctrl+K` or `Cmd+K` opens search.
-- Search finds projects, work experience, skills, and blog entries and the result links work inside `/Mufaddal-Portfolio/`.
+- Search finds projects, work experience, skills, and blog entries and the result links work inside `/MLB-Portfolio/`.
 - Escape closes the native search dialog.
 - The Feedback dialog opens, accepts a 1–5 rating/category/comment, and submits successfully.
 - Each project card opens **Read Case Study** and the URL hash changes to `#project-<slug>`.
@@ -144,7 +144,7 @@ On the actual GitHub Pages URL, verify all of the following:
 ## 7. Verify contact and feedback persistence
 
 1. Submit the contact form using a real test email.
-2. Confirm the browser reaches `thank-you.html` under `/Mufaddal-Portfolio/`.
+2. Confirm the browser reaches `thank-you.html` under `/MLB-Portfolio/`.
 3. Submit one feedback entry.
 4. Open Atlas Collections and confirm the expected records appear in `contact_messages` and `site_feedback`.
 5. Confirm the anonymous responses do not reveal private MongoDB IDs or internal notification details.
@@ -155,7 +155,7 @@ On the actual GitHub Pages URL, verify all of the following:
 1. Open:
 
 ```text
-https://mufaddalbatti53.github.io/Mufaddal-Portfolio/admin.html
+https://mufaddalbatti53.github.io/MLB-Portfolio/admin.html
 ```
 
 2. Sign in with `ADMIN_USERNAME` and the plaintext password whose BCrypt hash was stored on Render.
@@ -252,7 +252,7 @@ Push only after the tests are green. GitHub Actions will repeat the backend and 
 After every item above is verified, share:
 
 ```text
-https://mufaddalbatti53.github.io/Mufaddal-Portfolio/
+https://mufaddalbatti53.github.io/MLB-Portfolio/
 ```
 
 Keep the GitHub Actions CI workflow enabled, keep Atlas/Render security alerts enabled where available, and periodically review the admin contact/feedback inbox and dependency updates.

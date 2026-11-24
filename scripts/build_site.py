@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Build a canonical, owner-configured static MLB site with verified deployment values."""
 import argparse
+import base64
+import hashlib
 import html
 import os
 import re
@@ -10,7 +12,7 @@ from urllib.parse import urlsplit
 
 SOURCE = Path(__file__).resolve().parents[1] / 'frontend'
 DEFAULT_OUTPUT = Path(__file__).resolve().parents[1] / 'dist'
-SOURCE_SITE_BASE = 'https://mufaddalbatti53.github.io/Mufaddal-Portfolio'
+SOURCE_SITE_BASE = 'https://mufaddalbatti53.github.io/MLB-Portfolio'
 IDENTITY = {
     'SITE_DISPLAY_NAME': 'Mufaddal Battiwala',
     'SITE_EMAIL': 'mufaddal.techpro@gmail.com',
@@ -19,6 +21,20 @@ IDENTITY = {
     'SITE_LINKEDIN': 'https://www.linkedin.com/in/mufaddal-tech/',
 }
 EMAIL_PATTERN = re.compile(r'^[^\s@<>]+@[^\s@<>]+\.[^\s@<>]+$')
+
+
+def refresh_jsonld_csp(text):
+    match = re.search(r'<script type="application/ld\+json" id="seo-structured-data">(.*?)</script>', text, re.S)
+    if not match:
+        return text
+    digest = base64.b64encode(hashlib.sha256(match.group(1).encode("utf-8")).digest()).decode("ascii")
+    token = f"'sha256-{digest}'"
+    meta = re.search(r'<meta http-equiv="Content-Security-Policy" content="([^"]+)">', text)
+    if not meta:
+        raise SystemExit('Structured data page is missing CSP')
+    content = re.sub(r"\s+'sha256-[A-Za-z0-9+/=]+'", '', meta.group(1))
+    content = content.replace("script-src 'self'", "script-src 'self' " + token, 1)
+    return text[:meta.start(1)] + content + text[meta.end(1):]
 
 
 def config(mode):
@@ -61,6 +77,7 @@ def build(mode, output):
         if filename.endswith('.html'):
             for name, default in IDENTITY.items():
                 text = text.replace(default, html.escape(identity[name], quote=True))
+            text = refresh_jsonld_csp(text)
         path.write_text(text, encoding='utf-8')
     print(f'Static site generated for {base_url} at {output}')
 
