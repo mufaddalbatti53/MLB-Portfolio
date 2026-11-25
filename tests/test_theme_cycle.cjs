@@ -45,8 +45,8 @@ for (const mode of ['dusk','dark','light','dusk']) {
 assert.match(css, /\[data-theme="dusk"\]\s*\{[^}]*--surface-base:\s*#AEB7C5/i);
 for (const page of fs.readdirSync(root).filter(name => name.endsWith('.html'))) {
   const html = fs.readFileSync(path.join(root, page), 'utf8');
-  assert.match(html, /theme-init\.js\?v=20261124-mobile-fit-v5/);
-  assert.match(html, /main\.css\?v=20261124-mobile-fit-v5/);
+  assert.match(html, /theme-init\.js\?v=20261125-developer-v6/);
+  assert.match(html, /main\.css\?v=20261125-developer-v6/);
   assert.match(html, /data-theme-toggle/);
   assert.equal((html.match(/data-theme-toggle/g) || []).length, 1, `${page}: expected one switch`);
   assert.ok(!html.includes("data-theme-choice") && !html.includes("theme-bar"), `${page}: duplicate controls remain`);

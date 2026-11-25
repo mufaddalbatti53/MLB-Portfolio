@@ -1,7 +1,7 @@
 import { ApiError, getBlogPosts, getExperiences, getProjects, getPublicProfile, sendContact } from './api.js';
 import { initCookieConsent, renderBlogPosts, renderEmpty, renderExperiences, renderProjects, renderSkeletons } from './ui.js';
 import { setAnalyticsConsent, trackPageView } from './analytics.js';
-import { initTheme } from './theme.js?v=20261124-mobile-fit-v5';
+import { initTheme } from './theme.js?v=20261125-developer-v6';
 import { initSearch } from './search.js';
 import { initFeedback } from './feedback.js';
 

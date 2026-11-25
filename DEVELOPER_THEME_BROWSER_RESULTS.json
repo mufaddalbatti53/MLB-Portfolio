@@ -1,0 +1,1208 @@
+[
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "single switch",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "mode light",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "actual viewport fit light",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "background light",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "editor visible light",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "editor fit light",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "reduced motion light",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "mode dusk",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "actual viewport fit dusk",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "background dusk",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "editor visible dusk",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "editor fit dusk",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "reduced motion dusk",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 280,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "single switch",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "mode light",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "actual viewport fit light",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "background light",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "editor visible light",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "editor fit light",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "reduced motion light",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "mode dusk",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "actual viewport fit dusk",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "background dusk",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "editor visible dusk",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "editor fit dusk",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "reduced motion dusk",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "single switch",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "mode light",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "actual viewport fit light",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "background light",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "mode dusk",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "actual viewport fit dusk",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "background dusk",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 320,
+    "page": "admin.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "single switch",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "mode light",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "actual viewport fit light",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "background light",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "editor visible light",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "editor fit light",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "reduced motion light",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "mode dusk",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "actual viewport fit dusk",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "background dusk",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "editor visible dusk",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "editor fit dusk",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "reduced motion dusk",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 390,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "single switch",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "mode light",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "actual viewport fit light",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "background light",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "editor visible light",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "editor fit light",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "reduced motion light",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "mode dusk",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "actual viewport fit dusk",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "background dusk",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "editor visible dusk",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "editor fit dusk",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "reduced motion dusk",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 768,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "single switch",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "mode light",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "actual viewport fit light",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "background light",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "editor visible light",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "editor fit light",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "reduced motion light",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "mode dusk",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "actual viewport fit dusk",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "background dusk",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "editor visible dusk",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "editor fit dusk",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "reduced motion dusk",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 820,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "single switch",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "mode light",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "actual viewport fit light",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "background light",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "editor visible light",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "editor fit light",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "reduced motion light",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "mode dusk",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "actual viewport fit dusk",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "background dusk",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "editor visible dusk",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "editor fit dusk",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "reduced motion dusk",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 1024,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "single switch",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "mode light",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "actual viewport fit light",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "background light",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "editor visible light",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "editor fit light",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "reduced motion light",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "mode dusk",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "actual viewport fit dusk",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "background dusk",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "editor visible dusk",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "editor fit dusk",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "reduced motion dusk",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "editor visible dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "editor fit dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "index.html",
+    "check": "reduced motion dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "single switch",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "background dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "mode light",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "actual viewport fit light",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "background light",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "mode dusk",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "actual viewport fit dusk",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "background dusk",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "mode dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "actual viewport fit dark",
+    "pass": true
+  },
+  {
+    "width": 1440,
+    "page": "admin.html",
+    "check": "background dark",
+    "pass": true
+  }
+]

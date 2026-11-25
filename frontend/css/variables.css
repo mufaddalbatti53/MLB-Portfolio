@@ -185,3 +185,38 @@
   --portrait-pill-bg: rgba(255, 255, 255, .88);
   --portrait-pill-border: rgba(148, 163, 184, .42);
 }
+
+/* Theme-aware editor accents. */
+:root {
+  --dev-grid: rgba(125, 160, 220, .09);
+  --dev-panel: #101827;
+  --dev-panel-bar: #19243A;
+  --dev-code-keyword: #C4B5FD;
+  --dev-code-type: #7DD3FC;
+  --dev-code-string: #86EFAC;
+  --dev-caret: #7DD3FC;
+  --dev-line: #546987;
+  --dev-title-gradient: linear-gradient(115deg, #83A3FF, #BBA7FF 55%, #F0A2D6);
+}
+[data-theme="dusk"] {
+  --dev-grid: rgba(44, 59, 85, .10);
+  --dev-panel: #C5CDD8;
+  --dev-panel-bar: #B6C0CF;
+  --dev-code-keyword: #503396;
+  --dev-code-type: #075779;
+  --dev-code-string: #18563E;
+  --dev-caret: #4939B7;
+  --dev-line: #526174;
+  --dev-title-gradient: linear-gradient(115deg, #203E9D, #4D308E 55%, #852D70);
+}
+[data-theme="light"] {
+  --dev-grid: rgba(44, 75, 145, .07);
+  --dev-panel: #FFFFFF;
+  --dev-panel-bar: #EAF0F8;
+  --dev-code-keyword: #6039A9;
+  --dev-code-type: #075985;
+  --dev-code-string: #166534;
+  --dev-caret: #315EF4;
+  --dev-line: #61748C;
+  --dev-title-gradient: linear-gradient(115deg, #244BCC, #5939B8 55%, #A52D79);
+}
