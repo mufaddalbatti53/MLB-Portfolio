@@ -46,3 +46,11 @@
 .admin-editor textarea[name="keyMetrics"] { min-height: 150px; resize: vertical; font-family: var(--font-code); font-size: .82rem; }
 
 @media (max-width: 768px) { .admin-top, .admin-toolbar, .admin-editor-actions { flex-wrap: wrap; } .admin-card, .admin-content, .admin-editor label { min-width: 0; overflow-wrap: anywhere; } }
+
+/* Admin editor styling. */
+.admin-login, .admin-sidebar, .admin-stat, .admin-card, #admin-editor-panel { border-radius: 9px; box-shadow: none; }
+.admin-sidebar h2, .admin-tab, .admin-toolbar, .admin-field-hint { font-family: var(--font-code); }
+.admin-tab, .admin-login input, .admin-editor input, .admin-editor textarea, .admin-editor select, .admin-card__actions button, .admin-pagination button { border-radius: 6px; }
+.admin-tab[aria-current="page"] { border-color: var(--border-hover); border-left: 3px solid var(--link-accent); }
+.admin-stat strong { color: var(--link-accent); background: none; font-family: var(--font-code); }
+.admin-top h1 { font-weight: 720; letter-spacing: -.035em; }

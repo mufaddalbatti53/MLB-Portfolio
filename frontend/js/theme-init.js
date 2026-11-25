@@ -1,8 +1,8 @@
 (() => {
   const MODES = [
-    { id: 'light', label: 'Light', icon: '☀', scheme: 'light', color: '#F4F7FB' },
+    { id: 'light', label: 'Light', icon: '☀', scheme: 'light', color: '#F5F7FA' },
     { id: 'dusk', label: 'Dusk', icon: '◐', scheme: 'light', color: '#AEB7C5' },
-    { id: 'dark', label: 'Dark', icon: '☾', scheme: 'dark', color: '#0A0E17' }
+    { id: 'dark', label: 'Dark', icon: '☾', scheme: 'dark', color: '#0D1117' }
   ];
 
   const modeFor = (value) => MODES.find((mode) => mode.id === value) || MODES[2];

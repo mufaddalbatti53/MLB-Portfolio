@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-YYpEwRpsP+rYTHIuGm/kWxRgE9+cGEXHU+g17pAMCz0='; style-src 'self'; img-src 'self' data: https:; connect-src 'self' http://localhost:8080 https://*.onrender.com; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
   <meta name="mlb-api-origin" content="">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#0A0E17">
+  <meta name="theme-color" content="#0D1117">
   <meta name="description" content="Official portfolio of Mufaddal Battiwala, a Full Stack Developer in Kolkata building with Java, Spring Boot, MongoDB and modern JavaScript. Explore projects, experience and contact details.">
   <meta name="author" content="Mufaddal Battiwala">
   <meta name="application-name" content="Mufaddal Battiwala Portfolio">
@@ -117,8 +117,8 @@
   <link rel="apple-touch-icon" href="./assets/apple-touch-icon.png">
   <link rel="preload" as="image" href="./assets/mufaddal-battiwala-full-stack-developer.jpg" type="image/jpeg">
   <link rel="manifest" href="./site.webmanifest">
-  <script src="./js/theme-init.js?v=20261125-developer-v6"></script>
-  <link rel="stylesheet" href="./css/main.css?v=20261125-developer-v6">
+  <script src="./js/theme-init.js?v=20261125-engineer-v7"></script>
+  <link rel="stylesheet" href="./css/main.css?v=20261125-engineer-v7">
 </head>
 <body>
 
@@ -145,10 +145,12 @@
   <section id="hero" class="hero" aria-labelledby="hero-title">
     <div class="container hero-grid">
       <div class="hero__copy">
+        <p class="workspace-path" aria-hidden="true">~/portfolio <span>/</span> profile</p>
         <span class="eyebrow hero__eyebrow">Available for Full-Stack Opportunities</span>
         <h1 id="hero-title">Hi, I'm <span id="owner-name" class="gradient-text">Mufaddal Battiwala</span></h1>
         <p class="hero__subtitle" id="owner-tagline">Full Stack Developer | Java + Spring Boot &amp; Modern Web Developer</p>
         <p class="hero__description">I build secure, accessible full-stack products with Java, Spring Boot, MongoDB and modern vanilla JavaScript—focused on clear architecture, reliable APIs and thoughtful user experiences.</p>
+        <div class="hero-stack" aria-label="Core technologies"><span>Java 21</span><span>Spring Boot</span><span>MongoDB</span><span>JavaScript</span></div>
         <div class="hero__actions">
           <a class="button button--primary" href="#projects">View Projects <span aria-hidden="true">↗</span></a>
           <a class="button button--secondary" href="#contact">Get In Touch <span aria-hidden="true">↗</span></a>
@@ -157,6 +159,7 @@
       </div>
       <div class="hero__portrait-column">
         <figure class="hero-portrait">
+          <div class="portrait-label" aria-hidden="true"><span>portrait.jpg</span><span>01 / profile</span></div>
           <div class="hero-portrait__frame">
             <img class="hero-portrait__image"
                  src="./assets/mufaddal-battiwala-full-stack-developer.jpg"
@@ -174,7 +177,7 @@
       </div>
       <div class="developer-terminal" aria-label="Illustrative Java developer profile">
         <div class="developer-terminal__bar">
-          <span class="developer-terminal__dots" aria-hidden="true"><span></span><span></span><span></span></span>
+          <span class="editor-file-icon" aria-hidden="true">&lt;/&gt;</span>
           <span class="developer-terminal__file">profile.jsh</span>
           <span class="developer-terminal__language">JAVA</span>
         </div>
@@ -191,7 +194,7 @@
     <div class="container">
       <div class="section-head">
         <div>
-          <span class="eyebrow">About Mufaddal</span>
+          <span class="eyebrow">profile / about</span>
           <h2 id="about-title">About <span class="gradient-text">Mufaddal Battiwala.</span></h2>
           <p>Mufaddal Battiwala is a Full Stack Developer based in Kolkata, India, focused on Java, Spring Boot, MongoDB, REST APIs and modern web development.</p>
         </div>
@@ -213,13 +216,13 @@
   </section>
   <section class="section section--tinted" id="projects" aria-labelledby="projects-title">
     <div class="container">
-      <div class="section-head"><div><span class="eyebrow">Selected work</span><h2 id="projects-title">Projects that tell a <span class="gradient-text">story.</span></h2><p>A closer look at how ideas become useful, maintainable products.</p></div><span class="section-head__aside">Work and experiments</span></div>
+      <div class="section-head"><div><span class="eyebrow">projects / README</span><h2 id="projects-title">Selected projects</h2><p>A closer look at how ideas become useful, maintainable products.</p></div><span class="section-head__aside">Work and experiments</span></div>
       <div class="projects-grid" id="projects-list" aria-live="polite" aria-busy="true"><div class="empty-state"><p>Loading projects…</p></div></div>
     </div>
   </section>
   <section class="section" id="skills" aria-labelledby="skills-title">
     <div class="container">
-      <div class="section-head"><div><span class="eyebrow">Tools &amp; approach</span><h2 id="skills-title">The craft behind <span class="gradient-text">the code.</span></h2><p>A foundation across modern interfaces, APIs, data and secure engineering practices.</p></div></div>
+      <div class="section-head"><div><span class="eyebrow">stack / dependencies</span><h2 id="skills-title">Technical skills</h2><p>A foundation across modern interfaces, APIs, data and secure engineering practices.</p></div></div>
       <div class="skills-grid">
         <article class="skill-card"><span class="skill-card__icon" aria-hidden="true">{ }</span><h3>Frontend engineering</h3><p>Semantic HTML, CSS Grid &amp; Flexbox, accessibility and JavaScript.</p></article>
         <article class="skill-card"><span class="skill-card__icon" aria-hidden="true">&lt;/&gt;</span><h3>Backend systems</h3><p>Java, Spring Boot, RESTful APIs, input validation and layered design.</p></article>
@@ -232,8 +235,8 @@
     <div class="container">
       <div class="section-head">
         <div>
-          <span class="eyebrow">Professional experience</span>
-          <h2 id="experience-title">Building in the <span class="gradient-text">real world.</span></h2>
+          <span class="eyebrow">history / experience</span>
+          <h2 id="experience-title">Work experience</h2>
           <p>Hands-on engineering experience across responsive interfaces, workflow design and production web delivery.</p>
         </div>
         <span class="section-head__aside">Work timeline</span>
@@ -243,18 +246,18 @@
       </div>
     </div>
   </section>
-  <section class="section section--education" id="education" aria-labelledby="education-title"><div class="container"><div class="section-head"><div><span class="eyebrow">Background</span><h2 id="education-title">Learning that <span class="gradient-text">builds forward.</span></h2><p>My academic journey in engineering and technology.</p></div></div><div class="education-grid" id="education-list"><article class="skill-card"><h3>B.Tech — Computer Science Engineering</h3><p>Netaji Subhash Engineering College (NSEC), Kolkata</p></article><article class="skill-card"><h3>Higher Secondary (12th)</h3><p>Maharshi Sandipan Vidhyapeeth Senior Secondary School, Kota · 81.2%</p></article><article class="skill-card"><h3>Secondary (10th)</h3><p>New Haideriya English Senior Secondary School · 82.33%</p></article></div></div></section>
+  <section class="section section--education" id="education" aria-labelledby="education-title"><div class="container"><div class="section-head"><div><span class="eyebrow">education / history</span><h2 id="education-title">Education</h2><p>My academic journey in engineering and technology.</p></div></div><div class="education-grid" id="education-list"><article class="skill-card"><h3>B.Tech — Computer Science Engineering</h3><p>Netaji Subhash Engineering College (NSEC), Kolkata</p></article><article class="skill-card"><h3>Higher Secondary (12th)</h3><p>Maharshi Sandipan Vidhyapeeth Senior Secondary School, Kota · 81.2%</p></article><article class="skill-card"><h3>Secondary (10th)</h3><p>New Haideriya English Senior Secondary School · 82.33%</p></article></div></div></section>
   <section class="section section--tinted" id="blog" aria-labelledby="blog-title">
     <div class="container">
-      <div class="section-head"><div><span class="eyebrow">Notes from the field</span><h2 id="blog-title">Learning out <span class="gradient-text">loud.</span></h2><p>Thoughts, discoveries and clear explanations from the software-building process.</p></div></div>
+      <div class="section-head"><div><span class="eyebrow">docs / articles</span><h2 id="blog-title">Technical writing</h2><p>Thoughts, discoveries and clear explanations from the software-building process.</p></div></div>
       <div class="blog-grid" id="blog-list" aria-live="polite" aria-busy="true"><div class="empty-state"><p>Loading articles…</p></div></div>
     </div>
   </section>
   <section class="section" id="contact" aria-labelledby="contact-title">
     <div class="container contact-layout">
       <div class="contact-intro">
-        <span class="eyebrow">Start a conversation</span>
-        <h2 id="contact-title">Let's build something <span class="gradient-text">worth sharing.</span></h2>
+        <span class="eyebrow">contact / message</span>
+        <h2 id="contact-title">Get in touch</h2>
         <p>Have a technical challenge, collaboration idea or opportunity? Send a message and let's see what we can create together.</p>
         <div class="contact-details">
           <div class="contact-detail"><span class="contact-detail__icon" aria-hidden="true">@</span><div><small>Email</small><a data-profile-email href="mailto:mufaddal.techpro@gmail.com">mufaddal.techpro@gmail.com</a></div></div>
@@ -264,6 +267,7 @@
         </div>
       </div>
       <form id="contact-form" class="contact-form" novalidate aria-labelledby="contact-form-title">
+        <div class="workspace-form-bar" aria-hidden="true"><span>&gt;_</span> contact.form <span>POST</span></div>
         <h3 id="contact-form-title" class="contact-form__title">Send a message</h3>
         <noscript><p>JavaScript is required to submit this form. You can also email <a data-profile-email href="mailto:mufaddal.techpro@gmail.com">mufaddal.techpro@gmail.com</a> directly.</p></noscript>
         <p class="contact-form__subtitle">All fields marked * are required.</p>
@@ -304,7 +308,7 @@
       </nav>
     </div>
     <div class="footer-bottom">
-      <span>© <span id="copyright-year">2026</span> MLB. Built with care.</span>
+      <span>© <span id="copyright-year">2026</span> MLB <span aria-hidden="true">/</span> Java · Spring Boot · JavaScript</span>
       <div class="footer-bottom-links"><a href="./privacy.html">Privacy</a><a href="./terms.html">Terms</a><a href="mailto:mufaddal.techpro@gmail.com">Email</a></div>
     </div>
   </div>
@@ -327,7 +331,7 @@
     <div id="case-study-content"></div>
   </div>
 </dialog>
-<script type="module" src="./js/main.js?v=20261125-developer-v6"></script>
+<script type="module" src="./js/main.js?v=20261125-engineer-v7"></script>
 
 </body>
 </html>

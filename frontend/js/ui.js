@@ -319,7 +319,9 @@ export function renderProjects(container, projects) {
     }
 
     const body = create('div', 'project-card__body');
+    const projectLabel = create('div', 'workspace-card-label', project.slug ? `project / ${project.slug}` : 'project');
     append(body,
+      projectLabel,
       create('h3', '', project.title || 'Untitled project'),
       create('p', '', project.summary || 'Project overview unavailable.'),
       tagsRow(project.technologies));
@@ -360,6 +362,7 @@ export function renderBlogPosts(container, posts) {
       ? new Intl.DateTimeFormat('en', { month: 'short', day: 'numeric', year: 'numeric' }).format(date)
       : 'Article';
     append(card,
+      create('div', 'workspace-card-label', 'docs / article'),
       create('span', 'blog-card__date', dateText),
       create('h3', '', post.title || 'Untitled article'),
       create('p', '', post.excerpt || ''),

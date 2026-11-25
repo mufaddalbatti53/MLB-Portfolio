@@ -1,7 +1,7 @@
 import { ApiError, getBlogPosts, getExperiences, getProjects, getPublicProfile, sendContact } from './api.js';
-import { initCookieConsent, renderBlogPosts, renderEmpty, renderExperiences, renderProjects, renderSkeletons } from './ui.js';
+import { initCookieConsent, renderBlogPosts, renderEmpty, renderExperiences, renderProjects, renderSkeletons } from './ui.js?v=20261125-engineer-v7';
 import { setAnalyticsConsent, trackPageView } from './analytics.js';
-import { initTheme } from './theme.js?v=20261125-developer-v6';
+import { initTheme } from './theme.js?v=20261125-engineer-v7';
 import { initSearch } from './search.js';
 import { initFeedback } from './feedback.js';
 
@@ -175,7 +175,20 @@ function initReceipt() {
   }
 }
 
+function initWorkspaceMotion() {
+  if (!('IntersectionObserver' in window) || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(({ target, isIntersecting }) => {
+      if (!isIntersecting) return;
+      target.classList.add('workspace-enter');
+      observer.unobserve(target);
+    });
+  }, { threshold: .12 });
+  document.querySelectorAll('.section-head, .contact-intro').forEach((element) => observer.observe(element));
+}
+
 initTheme();
+initWorkspaceMotion();
 initSearch();
 initFeedback();
 initNavigation();

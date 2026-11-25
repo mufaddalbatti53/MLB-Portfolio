@@ -26,7 +26,7 @@ function createController(prefersLight) {
   callbacks.DOMContentLoaded();
   return { element, meta, toggle, choices, click: target => callbacks.click({ target }) };
 }
-const colors = { light: '#F4F7FB', dusk: '#AEB7C5', dark: '#0A0E17' };
+const colors = { light: '#F5F7FA', dusk: '#AEB7C5', dark: '#0D1117' };
 let controller = createController(true);
 for (const mode of ['light', 'dusk', 'dark', 'light', 'dusk', 'dark', 'light']) {
   assert.equal(controller.element.dataset.theme, mode);
@@ -45,8 +45,8 @@ for (const mode of ['dusk','dark','light','dusk']) {
 assert.match(css, /\[data-theme="dusk"\]\s*\{[^}]*--surface-base:\s*#AEB7C5/i);
 for (const page of fs.readdirSync(root).filter(name => name.endsWith('.html'))) {
   const html = fs.readFileSync(path.join(root, page), 'utf8');
-  assert.match(html, /theme-init\.js\?v=20261125-developer-v6/);
-  assert.match(html, /main\.css\?v=20261125-developer-v6/);
+  assert.match(html, /theme-init\.js\?v=20261125-engineer-v7/);
+  assert.match(html, /main\.css\?v=20261125-engineer-v7/);
   assert.match(html, /data-theme-toggle/);
   assert.equal((html.match(/data-theme-toggle/g) || []).length, 1, `${page}: expected one switch`);
   assert.ok(!html.includes("data-theme-choice") && !html.includes("theme-bar"), `${page}: duplicate controls remain`);

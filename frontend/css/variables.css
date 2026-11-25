@@ -4,7 +4,7 @@
   --brand-violet: #7A5AF8;
   --brand-pink: #C84B9E;
   --brand-gradient: linear-gradient(115deg, var(--brand-blue) 0%, var(--brand-violet) 53%, var(--brand-pink) 100%);
-  --surface-base: #0A0E17;
+  --surface-base: #0D1117;
   --surface-card: #121A29;
   --surface-raised: #19243A;
   --surface-input: #0D1523;
@@ -28,7 +28,7 @@
   --focus-shadow: rgba(59, 102, 245, .18);
   --selection-bg: rgba(122, 90, 248, .42);
   --selection-text: #FFFFFF;
-  --page-background: radial-gradient(circle at 92% 4%, rgba(59, 102, 245, .08), transparent 28%), #0A0E17;
+  --page-background: radial-gradient(circle at 92% 4%, rgba(59, 102, 245, .08), transparent 28%), #0D1117;
   --header-bg: rgba(10, 14, 23, .90);
   --header-border: rgba(54, 71, 100, .55);
   --section-tint: linear-gradient(180deg, rgba(18, 26, 41, .62), rgba(10, 14, 23, 0));
@@ -135,7 +135,7 @@
 
 [data-theme="light"] {
   color-scheme: light;
-  --surface-base: #F4F7FB;
+  --surface-base: #F5F7FA;
   --surface-card: #FFFFFF;
   --surface-raised: #EEF3FA;
   --surface-input: #FBFDFF;
@@ -159,7 +159,7 @@
   --focus-shadow: rgba(49, 94, 244, .15);
   --selection-bg: rgba(90, 70, 214, .20);
   --selection-text: #172033;
-  --page-background: radial-gradient(circle at 92% 5%, rgba(59, 102, 245, .08), transparent 30%), radial-gradient(circle at 7% 40%, rgba(200, 75, 158, .045), transparent 24%), #F4F7FB;
+  --page-background: radial-gradient(circle at 92% 5%, rgba(59, 102, 245, .08), transparent 30%), radial-gradient(circle at 7% 40%, rgba(200, 75, 158, .045), transparent 24%), #F5F7FA;
   --header-bg: rgba(248, 250, 253, .90);
   --header-border: rgba(148, 163, 184, .34);
   --section-tint: linear-gradient(180deg, rgba(232, 238, 247, .82), rgba(244, 247, 251, 0));
@@ -219,4 +219,153 @@
   --dev-caret: #315EF4;
   --dev-line: #61748C;
   --dev-title-gradient: linear-gradient(115deg, #244BCC, #5939B8 55%, #A52D79);
+}
+
+/* Engineering workspace tokens. */
+:root {
+  --surface-base: #0D1117;
+  --surface-card: #161B22;
+  --surface-raised: #1C242E;
+  --surface-input: #10151C;
+  --text-main: #E6EDF3;
+  --text-muted: #A5B2C1;
+  --text-dim: #9AA8B8;
+  --border-subtle: #30363D;
+  --border-hover: #465362;
+  --card-hover-border: #61778E;
+  --link-accent: #8AB4FF;
+  --accent-text: #A7C7FF;
+  --eyebrow-text: #A5B2C1;
+  --focus-ring: #79A6FF;
+  --accent-soft: #202B3C;
+  --accent-soft-border: #41516A;
+  --page-background: var(--surface-base);
+  --header-bg: var(--surface-base);
+  --header-border: var(--border-subtle);
+  --section-tint: var(--surface-base);
+  --project-visual-bg: var(--surface-raised);
+  --empty-bg: var(--surface-card);
+  --nav-mobile-bg: var(--surface-card);
+  --mobile-cta-bg: var(--surface-card);
+  --cookie-bg: var(--surface-card);
+  --cookie-border: var(--border-hover);
+  --dev-panel: var(--surface-card);
+  --dev-panel-bar: var(--surface-raised);
+  --dev-grid: rgba(145, 165, 190, .065);
+  --dev-code-keyword: #D2A8FF;
+  --dev-code-type: #79C0FF;
+  --dev-code-string: #A5D6A7;
+  --dev-caret: #79C0FF;
+  --dev-line: #8B9BAE;
+  --workspace-action: #345CC7;
+  --workspace-action-hover: #294BA8;
+  --workspace-frame: #8199B7;
+  --portrait-pill-bg: var(--surface-card);
+  --portrait-pill-border: var(--border-hover);
+  --radius-lg: 10px;
+  --radius-md: 8px;
+  --shadow-card: 0 4px 14px rgba(0,0,0,.12);
+  --primary-shadow: none;
+  --primary-shadow-hover: none;
+  --portrait-shadow: none;
+  --portrait-pill-shadow: none;
+  --brand-shadow: none;
+}
+[data-theme="dusk"] {
+  --surface-card: #C5CDD8;
+  --surface-raised: #B8C2D0;
+  --surface-input: #D8DFE8;
+  --border-subtle: #8794A6;
+  --border-hover: #64758B;
+  --card-hover-border: #53677F;
+  --link-accent: #263F8E;
+  --accent-text: #263F8E;
+  --eyebrow-text: #344156;
+  --focus-ring: #314FA7;
+  --accent-soft: #B8C5DC;
+  --accent-soft-border: #8B9BB9;
+  --workspace-action: #314DA8;
+  --workspace-action-hover: #283E8A;
+  --workspace-frame: #526A8A;
+  --dev-grid: rgba(50, 65, 88, .075);
+  --dev-panel: var(--surface-card);
+  --dev-panel-bar: var(--surface-raised);
+  --page-background: var(--surface-base);
+  --header-bg: var(--surface-card);
+  --header-border: var(--border-subtle);
+  --section-tint: var(--surface-base);
+  --project-visual-bg: var(--surface-raised);
+  --empty-bg: var(--surface-card);
+  --nav-mobile-bg: var(--surface-card);
+  --mobile-cta-bg: var(--surface-card);
+  --cookie-bg: var(--surface-card);
+  --cookie-border: var(--border-hover);
+  --portrait-pill-bg: var(--surface-card);
+  --portrait-pill-border: var(--border-hover);
+  --shadow-card: 0 4px 14px rgba(29,40,55,.09);
+  --primary-shadow: none;
+  --primary-shadow-hover: none;
+  --portrait-shadow: none;
+  --portrait-pill-shadow: none;
+  --brand-shadow: none;
+}
+[data-theme="light"] {
+  --surface-card: #FFFFFF;
+  --surface-raised: #EDF1F6;
+  --surface-input: #F8FAFC;
+  --border-subtle: #CDD6E0;
+  --border-hover: #A3B0BF;
+  --card-hover-border: #778AA2;
+  --link-accent: #244CA9;
+  --accent-text: #244CA9;
+  --eyebrow-text: #526074;
+  --focus-ring: #315DCB;
+  --accent-soft: #EAF0FB;
+  --accent-soft-border: #C6D3EB;
+  --workspace-action: #3156B3;
+  --workspace-action-hover: #284590;
+  --workspace-frame: #6982A3;
+  --dev-grid: rgba(50, 65, 88, .05);
+  --dev-panel: var(--surface-card);
+  --dev-panel-bar: var(--surface-raised);
+  --page-background: var(--surface-base);
+  --header-bg: var(--surface-card);
+  --header-border: var(--border-subtle);
+  --section-tint: var(--surface-base);
+  --project-visual-bg: var(--surface-raised);
+  --empty-bg: var(--surface-card);
+  --nav-mobile-bg: var(--surface-card);
+  --mobile-cta-bg: var(--surface-card);
+  --cookie-bg: var(--surface-card);
+  --cookie-border: var(--border-hover);
+  --portrait-pill-bg: var(--surface-card);
+  --portrait-pill-border: var(--border-hover);
+  --shadow-card: 0 4px 14px rgba(29,40,55,.06);
+  --primary-shadow: none;
+  --primary-shadow-hover: none;
+  --portrait-shadow: none;
+  --portrait-pill-shadow: none;
+  --brand-shadow: none;
+}
+[data-theme="dusk"] {
+  --surface-base: #AEB7C5;
+  --text-main: #172033;
+  --text-muted: #344156;
+  --text-dim: #435267;
+  --dev-code-keyword: #503396;
+  --dev-code-type: #075779;
+  --dev-code-string: #18563E;
+  --dev-caret: #314FA7;
+  --dev-line: #526174;
+}
+[data-theme="light"] {
+  --surface-base: #F5F7FA;
+  --text-main: #172033;
+  --text-muted: #526074;
+  --text-dim: #58677B;
+  --dev-code-keyword: #6039A9;
+  --dev-code-type: #075985;
+  --dev-code-string: #166534;
+  --dev-caret: #315DCB;
+  --dev-line: #61748C;
 }
